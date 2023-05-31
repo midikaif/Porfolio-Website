@@ -107,6 +107,7 @@ nav ul li a:hover::after {
     line-height: 90px;
     margin: 5px 0;
     white-space: nowrap;
+    font-size: 2.5rem;
 }
 
 .s-text li span::after {
